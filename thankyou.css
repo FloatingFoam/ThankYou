@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+.ff {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+  }
+.header {
+    padding: 80px;
+    text-align: center;
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom left, #3F4F72, #071C48);
+    color: white; 
+}
+.header h1 {
+    font-size: 40px;
+}
